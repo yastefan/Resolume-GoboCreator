@@ -2198,7 +2198,7 @@
 				"name": "Wire",
 				"version": {
 					"major": 7,
-					"minor": 21,
+					"minor": 22,
 					"patch": 0
 				}
 			},
@@ -2226,7 +2226,7 @@
 				"name": "Wire",
 				"version": {
 					"major": 7,
-					"minor": 21,
+					"minor": 22,
 					"patch": 3
 				}
 			},
@@ -3409,12 +3409,7 @@
 				"thumbnail_visible": true
 			},
 			"164": {
-				"attributes": {
-					"flow": {
-						"type": "flow",
-						"value": "attribute"
-					}
-				},
+				"attributes": {},
 				"bounds": {
 					"height": 30,
 					"width": 195,
@@ -3423,14 +3418,12 @@
 				},
 				"class": {
 					"id": "77697265-7BFA-44F2-A6D4-AE62B9FCC325",
-					"version": 1
+					"version": 2
 				},
 				"clock": "video",
 				"color": "ffff6a00",
 				"constants": {},
-				"hidden": [
-					"flow"
-				],
+				"hidden": [],
 				"name": "Pi",
 				"thumbnail_visible": true
 			},
@@ -4963,7 +4956,7 @@
 					}
 				},
 				"bounds": {
-					"height": 106,
+					"height": 130,
 					"width": 195,
 					"x": 589.59393310546875,
 					"y": 1130.2247314453125
@@ -5380,7 +5373,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -5522,7 +5515,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -5664,7 +5657,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -5809,8 +5802,8 @@
 					}
 				},
 				"hidden": [
-					"mode",
-					"instances"
+					"instances",
+					"mode"
 				],
 				"name": "Edge",
 				"thumbnail_visible": true
@@ -5957,7 +5950,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -6099,7 +6092,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -6241,7 +6234,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -6550,7 +6543,7 @@
 					}
 				},
 				"bounds": {
-					"height": 106,
+					"height": 130,
 					"width": 195,
 					"x": 570.646728515625,
 					"y": 1585.784912109375
@@ -7078,7 +7071,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -7220,7 +7213,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -7362,7 +7355,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -7774,7 +7767,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -7916,7 +7909,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -8058,7 +8051,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -9540,7 +9533,7 @@
 				},
 				"class": {
 					"id": "77697265-A7DD-4C94-96ED-4A5E3756EA6A",
-					"version": 3
+					"version": 4
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -9832,7 +9825,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -10070,7 +10063,7 @@
 					}
 				},
 				"bounds": {
-					"height": 106,
+					"height": 130,
 					"width": 195,
 					"x": 3804.6376953125,
 					"y": 410.803985595703125
@@ -10180,7 +10173,7 @@
 				},
 				"class": {
 					"id": "77697265-A7DD-4C94-96ED-4A5E3756EA6A",
-					"version": 3
+					"version": 4
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -10378,9 +10371,9 @@
 					}
 				},
 				"hidden": [
+					"instances",
 					"restart-at-zero",
 					"linear",
-					"instances",
 					"is-done"
 				],
 				"name": "Attack Release",
@@ -10771,7 +10764,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -10929,7 +10922,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -12249,7 +12242,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -12634,7 +12627,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -14217,7 +14210,7 @@
 				},
 				"class": {
 					"id": "77697265-6899-4A9C-82AB-949346033440",
-					"version": 2
+					"version": 3
 				},
 				"clock": "video",
 				"color": "ffff6a00",
@@ -15096,16 +15089,15 @@
 		},
 		"ui": {
 			"camera": {
-				"x": -5101.56640625,
-				"y": -3477.24560546875,
-				"zoom": 0.08362650871276855
+				"x": -3057.54248046875,
+				"y": -403.624420166015625,
+				"zoom": 1
 			},
 			"selection": [
 				"45"
 			]
 		}
 	},
-	"resources": {},
 	"ui": {
 		"audio": {
 			"routing": {
