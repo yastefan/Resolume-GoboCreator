@@ -1,0 +1,204 @@
+{
+	"meta": {
+		"deploymentTarget": {
+			"branch": "unknown",
+			"name": "Wire",
+			"version": {
+				"major": 7,
+				"minor": 22,
+				"patch": 0
+			}
+		},
+		"saveTarget": {
+			"branch": "unknown",
+			"name": "Wire",
+			"version": {
+				"major": 7,
+				"minor": 22,
+				"patch": 0
+			}
+		}
+	},
+	"preset": {
+		"Abstract Lines Color": {
+			"100": {
+				"type": "integer",
+				"value": 0
+			},
+			"105": {
+				"type": "float",
+				"value": 0
+			},
+			"107": {
+				"type": "float",
+				"value": 0
+			},
+			"129": {
+				"type": "float",
+				"value": 2
+			},
+			"130": {
+				"type": "float",
+				"value": 4.15988779067993164
+			},
+			"131": {
+				"type": "float",
+				"value": 0.05000000074505806
+			},
+			"132": {
+				"type": "float",
+				"value": 0.00100000004749745
+			},
+			"133": {
+				"type": "float",
+				"value": 0.20000000298023224
+			},
+			"134": {
+				"type": "float",
+				"value": 0.84691298007965088
+			},
+			"218": {
+				"type": "trigger",
+				"value": null
+			},
+			"219": {
+				"type": "float",
+				"value": 1
+			},
+			"220": {
+				"type": "float",
+				"value": 0.01321200001984835
+			},
+			"241": {
+				"type": "integer",
+				"value": 2
+			},
+			"253": {
+				"type": "trigger",
+				"value": null
+			},
+			"254": {
+				"type": "float",
+				"value": 0.05000000074505806
+			},
+			"255": {
+				"type": "float",
+				"value": 0.14215800166130066
+			},
+			"259": {
+				"type": "integer",
+				"value": 2
+			},
+			"269": {
+				"type": "integer",
+				"value": 0
+			},
+			"270": {
+				"type": "integer",
+				"value": 2
+			},
+			"286": {
+				"type": "color",
+				"value": [
+					1,
+					0.75,
+					0.86249995231628418,
+					1
+				]
+			},
+			"296": {
+				"type": "integer",
+				"value": 0
+			},
+			"300": {
+				"type": "integer",
+				"value": 4
+			},
+			"305": {
+				"type": "float",
+				"value": 0
+			},
+			"306": {
+				"type": "float",
+				"value": 0.5
+			},
+			"307": {
+				"type": "integer",
+				"value": 0
+			},
+			"320": {
+				"type": "integer",
+				"value": 4
+			},
+			"333": {
+				"type": "float",
+				"value": 0
+			},
+			"34": {
+				"type": "integer",
+				"value": 7
+			},
+			"340": {
+				"type": "float",
+				"value": 0
+			},
+			"343": {
+				"type": "float",
+				"value": 0
+			},
+			"391": {
+				"type": "integer",
+				"value": 1
+			},
+			"402": {
+				"type": "float",
+				"value": 1.83610999584197998
+			},
+			"403": {
+				"type": "float",
+				"value": 1
+			},
+			"444": {
+				"type": "float",
+				"value": 0
+			},
+			"445": {
+				"type": "float",
+				"value": 0
+			},
+			"45": {
+				"type": "integer",
+				"value": 2
+			},
+			"50": {
+				"type": "float",
+				"value": 0
+			},
+			"65": {
+				"type": "color",
+				"value": [
+					0.69999998807907104,
+					1,
+					0.86500000953674316,
+					1
+				]
+			},
+			"68": {
+				"type": "float",
+				"value": 0.78550100326538086
+			},
+			"71": {
+				"type": "float",
+				"value": 20
+			},
+			"73": {
+				"type": "float",
+				"value": 0.18145400285720825
+			},
+			"83": {
+				"type": "float",
+				"value": 0
+			}
+		}
+	}
+}
